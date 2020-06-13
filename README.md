@@ -1,2 +1,2 @@
 # testnexius
-Repo for testing GH in nexius.
+Repo for testing GH.
